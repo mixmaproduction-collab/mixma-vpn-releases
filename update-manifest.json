@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "url": "https://github.com/mixmaproduction-collab/mixma-vpn-releases/releases/latest",
-  "notes": "First release: Windows installer, signed Android APK, Local Lab node."
+  "notes": "Adds live traffic counters on Android, friendly connection errors, OS-keychain storage for server sources, and update checks."
 }
